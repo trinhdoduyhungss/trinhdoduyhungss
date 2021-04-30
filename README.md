@@ -1,6 +1,6 @@
 # Welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am Trinh Do Duy Hung. A little boy who is a computer scientist and want to accumulate a lot of experience working with the algorithms applied in NLP (Natural Language Processing). Research and develop more optimise algorithms that have lower complexity. Most importantly, it can convert to Javascript libraries for running efficiently on websites or mobile apps through NodeJS.
+I am Trinh Do Duy Hung. A little boy who is a computer scientist wants to accumulate a lot of experience working with the algorithms applied in NLP (Natural Language Processing). Research and develop more optimise algorithms that have lower complexity. Most importantly, it can convert to Javascript libraries for running efficiently on websites or mobile apps through NodeJS.
 
 :mailbox: Reach me out!
 
