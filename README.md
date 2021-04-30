@@ -12,13 +12,10 @@ I am Trinh Do Duy Hung. A little boy who are computer scientist and want to accu
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/trinhdoduyhungss/trinhdoduyhungss">
+<a href="https://github.com/trinhdoduyhungss">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhdoduyhungss&hide=html,css&theme=github_dark" />
 </a>
 </b>  
-<a href="https://github.com/trinhdoduyhungss/trinhdoduyhungss">
+<a href="https://github.com/trinhdoduyhungss">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trinhdoduyhungss&show_icons=true&theme=github_dark" alt="Trinhdoduyhungss's GitHub Stats" />
 </a>
-
-#### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=trinhdoduyhungss.trinhdoduyhungss)
