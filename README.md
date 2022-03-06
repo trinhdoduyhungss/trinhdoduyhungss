@@ -13,7 +13,7 @@ My name is Trinh Do Duy Hung. A boy is a computer scientist who wants to gain a 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/trinhdoduyhungss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhdoduyhungss&hide=html,css&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhdoduyhungss&layout=compact&hide=html,css&theme=github_dark" />
 </a>
 </b>  
 <a href="https://github.com/trinhdoduyhungss">
